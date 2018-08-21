@@ -265,7 +265,7 @@ input.ct-red + span + label + span.switch-right {
   font-weight: 500;
   padding: 7px 18px;
   border-color: #66615B;
-  color: black;
+  color: white;
   -webkit-transition: all 150ms linear;
   -moz-transition: all 150ms linear;
   -o-transition: all 150ms linear;
@@ -1431,7 +1431,7 @@ textarea.form-control {
 }
 
 .section-light-brown {
-  background-color: #D8C1AB;
+  background-color: #363636;
   color: #FFFFFF;
 }
 
@@ -1718,7 +1718,7 @@ textarea.form-control {
 }
 
 .navbar-default {
-  background-color: #2b2927;
+  background-color: #696969;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 .navbar-default .brand {
@@ -1856,9 +1856,9 @@ textarea.form-control {
 }
 
 .img-circle {
-  background-color: rgb(141, 17, 17);
+  background-color: black;
   margin-bottom: 10px;
-  padding: 4px;
+  padding: 1px;
 }
 
 .img-thumbnail {
